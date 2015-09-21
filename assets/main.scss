@@ -1,9 +1,18 @@
 ---
 ---
 
-$text-color: #FFFFFF;
-$anchor-text-color: #FFF7E5;
+$text-color: #B8DEEE;
+$header-text-color: #FFFFFF;
+$anchor-text-color: #FFFFFF;
 $background-color: #2685AC;
+
+h1 {
+	color: $header-text-color;
+}
+
+h2 {
+	color: $header-text-color;
+}
 
 body {
 	font-family: 'Vollkorn', serif;
